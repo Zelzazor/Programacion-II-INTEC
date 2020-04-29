@@ -1,0 +1,12 @@
+Int 32 bits
+-2,147,483,648 to 2,147,483,647
+Uint 32 bits
+0 to 4,294,967,295
+
+
+La primera nota es un do, es el do de la segunda escala
+de la tercera subcuaternación armónica.
+
+Aquí entonces hacemos un salto de subquinta, que es básicamente
+metarmonizar la segunda subcuaternación que nos ha 
+condicionado la primera tónica del do.

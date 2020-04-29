@@ -1,0 +1,25 @@
+Hacer un programa de consola que de números aleatorios a la salida estándar, de uno a 1 millón. (la cantidad de números será determinada por parámetro)
+Segundo programa coger la salida del primer programa con Pipe y determinar la persistencia aditiva de cada número.
+
+ public static int getPersistenciaAdi(int num){
+        int contpers = 0;
+        while(num > 9){
+            int cont = 1;
+            double num2 = num;
+            while(num2 > 9){
+                cont++;
+                num2 = num / potencia(10, cont);
+            }
+            int[] nums = new int[cont];
+            int num3 = num;
+            int result = 0;
+            for(int i = 0; i < cont; i++){
+                nums[i] = num3%10;
+                num3/=10;
+                result+=nums[i];
+            }
+            contpers++;
+            num = result;
+        }
+        return contpers;
+    }

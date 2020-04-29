@@ -1,0 +1,7 @@
+ERROR: programa interrumpido en la Fecha: 2020-03-02, Hora: 19:44:40.831 En la iteración: 3
+ERROR: programa interrumpido en la Fecha: 2020-03-02, Hora: 19:56:28.526 En la iteración: 7
+ERROR: programa interrumpido en la Fecha: 2020-03-02, Hora: 19:57:09.846 En la iteración: 4
+ERROR: programa interrumpido en la Fecha: 2020-03-02, Hora: 20:05:31.145 En la iteración: 3
+ERROR: programa interrumpido en la Fecha: 2020-03-02, Hora: 22:41:05.713 En la iteración: 4
+ERROR: programa interrumpido en la Fecha: 2020-03-05, Hora: 16:30:50.136 En la iteración: 5
+ERROR: programa interrumpido en la Fecha: 2020-03-09, Hora: 21:12:35.722 En la iteración: 5
